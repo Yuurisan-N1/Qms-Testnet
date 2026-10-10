@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=QMS%20Testnet%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Say%20GM%20%2526%20GN%20%7C%20Faucet%20Claim%20%7C%20Auto%20Stake%20%7C%20Multi-Wallet&descAlign=50&descAlignY=58"/>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=QMS%20Testnet%20Bot&fontAlign=50&fontAlignY=36&fontSize=56&desc=Say%20GM%20%26amp%3B%20GN%20%7C%20Faucet%20Claim%20%7C%20Auto%20Stake%20%7C%20Multi-Wallet&descAlign=50&descAlignY=58"/>
 
-<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=650&center=true&vCenter=true&width=900&lines=Auto+Say+GM+%20+GN+On-chain+%7C+Full+Daily+Quota;Auto+Faucet+Claim+%7C+QMST+Tokens+Per+Cooldown;Auto+Stake+%7C+Random+Amount+%7C+Auto+Approve;On-chain+Transactions+%7C+QMS+Testnet+Chain+ID+19480;Multi-Wallet+%7C+All+Keys+Per+Cycle"/>
+<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=650&center=true&vCenter=true&width=900&lines=Auto+Say+GM+%26+GN+On-chain+%7C+Full+Daily+Quota;Auto+Faucet+Claim+%7C+QMST+Tokens+Per+Cooldown;Auto+Stake+%7C+Random+Amount+%7C+Auto+Approve;On-chain+Transactions+%7C+QMS+Testnet+Chain+ID+19480;Multi-Wallet+%7C+All+Keys+Per+Cycle"/>
 
 <p>
   <img alt="ruby" src="https://img.shields.io/badge/Ruby-3.2+-CC342D?logo=ruby&logoColor=white"/>
