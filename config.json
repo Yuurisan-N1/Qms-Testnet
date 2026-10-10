@@ -1,0 +1,16 @@
+{
+  "say_gm_gn": {
+    "enabled": true
+  },
+  "faucet": {
+    "enabled": true
+  },
+  "staking": {
+    "enabled": true,
+    "amount_min": 10,
+    "amount_max": 20
+  },
+  "settings": {
+    "sleep_seconds": 3600
+  }
+}
